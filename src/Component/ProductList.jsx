@@ -11,7 +11,7 @@ const ProductList = ({
 }) => {  
   return (
     <div>
-        <h3>Products</h3>
+        <h1 className='text-center m-5'>Products</h1>
         <ul className='proudct_list'>
             {data.map(product => (
               <li key={product.id} className="product_list_item">

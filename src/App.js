@@ -34,7 +34,7 @@ const App = () => {
       </header>
       <Row>
         <Col md={12}>
-          <h1 className='text-center'>My SHOPPING CART</h1>
+          {/* <h1 className='text-center'>My SHOPPING CART</h1> */}
         </Col>
       </Row>
       <Row>
